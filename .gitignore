@@ -18,5 +18,5 @@
 !/docs/Software_Requirement_Specification/SRS_final.docx
 
 # Ignore all README.md files except the repository root README.md
+#Any README.md file in any subdirectory
 **/README.md
-!/README.md
